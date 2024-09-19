@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://ellnxnja.github.io/sitemap/sitemap.txt
